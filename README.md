@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07eaf&height=120&section=header"/>
 
 ## Olá, eu sou Kayra!
 <div align="center">
