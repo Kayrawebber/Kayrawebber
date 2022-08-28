@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
 ## Olá, eu sou Kayra!
-<div align="left">
+<div align="center">
   <a href="https://github.com/kayraawebber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayrawebber&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&langs_count=7&theme=synthwave">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kayrawebber&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&langs_count=7&theme=synthwave">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kayra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
