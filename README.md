@@ -12,7 +12,7 @@
   <img align="center" alt="Kayra-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Kayra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kayra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://64.media.tumblr.com/1c58d89a993e309a7aab7f33c33ae843/4eacd366a2752c5f-8c/s1280x1920/a5fdbf7f2d3d57619028bc48ee3624560120109e.jpg">
+  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://64.media.tumblr.com/1c58d89a993e309a7aab7f33c33ae843/4eacd366a2752c5f-8c/s1280x1920/a5fdbf7f2d3d57619028bc48ee3624560120109e.jpg">
 </div>
   
   ##
